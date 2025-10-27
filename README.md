@@ -1,5 +1,6 @@
 # Alusine-Fofanah-905005535
 #WebDesign Assignment 1 Repository 
+
 ##Home Page - Sketch and Wireframe
 ![Home Page Hand Sketch](https://github.com/user-attachments/assets/07f013d7-25f7-4568-8884-f118d1c25f2a)
 <img width="1125" height="1286" alt="Home Page Wireframe" src="https://github.com/user-attachments/assets/5c163920-57a2-4548-90c5-31a8e8c55b3d" />
@@ -16,7 +17,7 @@
 ![Contact Page Hand Sketch](https://github.com/user-attachments/assets/f3f85893-d28f-49a8-9fc4-381f7a00bd20)
 <img width="1125" height="1449" alt="Contact Page Wireframe" src="https://github.com/user-attachments/assets/486aeef3-322a-43b3-a481-7cd27d27b111" />
 
-Add web design repo and wireframe
+web design repo and wireframe
 
 
                                                               
