@@ -1,6 +1,6 @@
 # Alusine-Fofanah-905005535
 
-## WebDesign Assignment 1 Repository 
+# WebDesign Assignment 1 Repository 
 
 ## Home Page - Sketch and Wireframe
 ![Home Page Hand Sketch](https://github.com/user-attachments/assets/07f013d7-25f7-4568-8884-f118d1c25f2a)
